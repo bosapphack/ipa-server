@@ -1,4 +1,4 @@
-FROM node:8.4.0
+FROM node:16.3.0
 MAINTAINER Steven <s@beeeye.cn>
 
 # set work dir
